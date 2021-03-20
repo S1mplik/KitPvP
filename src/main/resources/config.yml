@@ -1,0 +1,8 @@
+#KitPVP Danix25
+Messages:
+  Join:
+    VIP: "[VIP] %player% left."
+    OP: "§c[§4OP§c]§r %player% joined."
+  Quit:
+    VIP: "[VIP] %player% left."
+    OP: "§c[§4OP§c]§r %player% left."

@@ -1,0 +1,7 @@
+name: KitPvP
+version: ${project.version}
+main: cz.danix25.kitpvp.Kitpvp
+authors: [Danix25]
+description: My first KitPvp plugin
+commands:
+  kit:
